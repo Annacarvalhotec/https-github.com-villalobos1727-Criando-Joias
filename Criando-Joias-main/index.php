@@ -6,22 +6,24 @@
 
 
 
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <img src="imagenes/VJ.png" class="img-fluid">
-            </div>
-
-        </div>
-    </div>
-
+<header class="fundo">
     <div class="container-fluid texto">
       <div class="row">
         <div class="col-md-12 text-center">
           <h2>Conheça Algumas de Nossas Criaçoes</h2>
         </div>
       </div>
+   
+
+
+      <div class="row">
+          <div class="col-md-12 fundo">
+               <img src="imagenes/vj.png">
+            </div>     
+        
+      </div>
     </div>
+  </header>
 
     <div class="container-fluid imagens">
         <div class="row">
@@ -30,11 +32,11 @@
             </div>
 
             <div class="col-md-4">
-                <img src="imagenes/joias2.jpg" class="img-fluid">
+                <img src="imagenes/joias3.jpg" class="img-fluid">
             </div>
 
             <div class="col-md-4">
-                <img src="imagenes/joias3.webp" class="img-fluid">
+                <img src="imagenes/joias4.jpg" class="img-fluid">
             </div>
 
         </div>
@@ -43,7 +45,7 @@
     <div class="container-fluid text-center conteudo">
       <div class="row">
         <div class="col-md-6 col-sm">
-          <img src="imagenes/joias4.jpg" class="img-fluid">
+          <img src="imagenes/joias5.jpg" class="img-fluid">
         </div>
         <div class="col-md-6 col-sm">
           <h3>Jumpp</h3>
@@ -61,7 +63,7 @@
           <p>Mas, os benefícios podem alcançar ainda mais pessoas. Afinal, manter o corpo forte e saudável é bom em qualquer idade. Concorda? A hidroginástica pode ser uma ótima opção para quem quer sair do sedentarismo, para gestantes ou, simplesmente, para quem derrete de calor só de pensar em exercícios físicos no verão. </p>
         </div>
         <div class="col-md-6 col-sm">
-          <img src="imagenes/joias5.jpg" class="img-fluid">
+          <img src="imagenes/joias6.jpg" class="img-fluid">
           
         </div>
       </div>
@@ -70,7 +72,7 @@
     <div class="container-fluid text-center conteudo">
       <div class="row">
         <div class="col-md-6 col-sm">
-          <img src="imagenes/joias6.jpg" class="img-fluid">
+          <img src="imagenes/joias7.jpg" class="img-fluid">
         </div>
         <div class="col-md-6 col-sm">
           <h3>Spinning</h3>
@@ -78,15 +80,12 @@
         </div>
       </div>
     </div>
+    
+
+    
+
 
     <?php
-        require_once 'footer.php';
-
-    ?>
- 
-
-
-
-
-
-   
+  require_once 'footer.php';
+  
+?>  

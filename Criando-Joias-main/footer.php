@@ -4,19 +4,9 @@
         <div class="col-md-3">
           <h4>Institucional</h4>
           <p><a href="#">Home</a></p>
-          <p><a href="#">Nossa Academia</a></p>
+          <p><a href="#">Nossa Loja</a></p>
           <p><a href="#">Conheça os Planos</a></p>
           <p><a href="#">Área do Cliente</a></p>
-        </div>
-
-        <div class="col-md-3">
-          <h4>Atividades</h4>
-          <ul class="navbar-nav mr-auto">
-            <li class="navbar-item"><a class="nav-link" href="#">Spinning</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Jumpp</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Funcional</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Pilates</a></li>
-          </ul>
         </div>
 
         <div class="col-md-3">
@@ -33,9 +23,9 @@
 
       <div class="row text-center">
         <div class="col-md-12 sociais">
-          <a href="#"><img src="imagens/whatsapp.png"></a>
-          <a href="#"><img src="imagens/face.png"></a>
-          <a href="#"><img src="imagens/insta.png"></a>
+          <a href="#"><img src="imagenes/whatsapp.png"></a>
+          <a href="#"><img src="imagenes/face.png"></a>
+          <a href="#"><img src="imagenes/insta.png"></a>
         </div>
       </div>
     </div>

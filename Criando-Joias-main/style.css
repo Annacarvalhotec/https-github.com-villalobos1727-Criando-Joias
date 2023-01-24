@@ -3,6 +3,13 @@
     height:200px;
 }
 
+header, div, h1 {
+  
+   
+    /*text-align: center;
+    font-family: center;
+    font-size: 60px*/
+    }
 .imagens{
     padding:20px;
 }
@@ -46,4 +53,20 @@
   }
   #login .container #login-row #login-column #login-box #login-form #register-link {
     margin-top: -85px;
+  }
+
+
+
+
+
+  .fundo{   
+   
+    height: 800px;
+    padding:30px;
+
+  }
+
+  .fundo img{
+    height:100%;
+    width:100%;
   }
